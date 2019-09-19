@@ -1,0 +1,18 @@
+---
+layout: gallery
+title: "Gallery Example"
+date: 2019-09-18 15:51:36 +0200
+images:
+  - image_path: "/assets/img/1.jpg"
+    title: "First Image"
+  - image_path: "/assets/img/2.jpg"
+    title: "Second Image"
+  - image_path: "/assets/img/3.jpg"
+    title: "Third Image"
+  - image_path: "/assets/img/4.jpg"
+    title: "Fourth Image"
+  - image_path: "/assets/img/5.jpg"
+    title: "Fifth Image"
+  - image_path: "/assets/img/6.jpg"
+    title: "Sixth Image"
+---
