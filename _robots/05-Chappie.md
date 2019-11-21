@@ -4,7 +4,7 @@ ranking: 5
 title: Chappie
 in the film: Chappie
 puissance: 3/10
-image: "/assets/img/CHAPPIE.jpeg"
+image: "/assets/img/CHAPPIE.png"
 short_description: SKIBIDI BIDI BIDI BI BI BUUUII
 ---
 

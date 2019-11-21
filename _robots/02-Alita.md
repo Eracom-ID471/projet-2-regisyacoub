@@ -4,7 +4,7 @@ ranking: 2
 title: Alita
 in the film: Alita
 puissance: 8.5/10
-image: "/assets/img/alita.jpg"
+image: "/assets/img/alita.png"
 short_description: SKIBIDI BIDI BIDI BI BI BUUUII
 ---
 
