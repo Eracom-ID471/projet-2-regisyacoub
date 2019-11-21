@@ -1,6 +1,6 @@
 ---
 layout: post
-ranking: 5
+ranking: 6
 title: Gundam
 in the film: Gundam
 puissance: 9.5/10
