@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+{% include head.html %}
+  <body>
+{% include header.html %}
+    {% for robot in site.robots %}
+    <img class="petit" src="{{robot.image}}">
+    <div>
+      <h1 class="locks">{{ robot.ranking }}.
+        <a class="link" href="{{robot.url}}">{{ robot.title}}</a>
+      </h1>
+      <p>{{robot.short_description}}
+      </p>
+    </div>
+    {% endfor %}
+
+  {% include footer.html %}
+  </body>
+</html>

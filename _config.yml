@@ -1,0 +1,11 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Top 5" # the name of your site, e.g. ACME Corp.
+
+collections:
+  robots:
+    output: true
+  ordinateurs:
+    output: true
+plugins:
+  - jekyll-admin
