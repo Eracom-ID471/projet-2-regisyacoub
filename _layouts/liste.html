@@ -4,10 +4,10 @@
   <body>
 {% include header.html %}
     {% for robot in site.robots %}
-    <img class="petit" src="{{robot.image}}">
+    <img class="petit" src="{{robot.image  | relative_url }}">
     <div>
       <h1 class="locks">{{ robot.ranking }}.
-        <a class="link" href="{{robot.url}}">{{ robot.title}}</a>
+        <a class="link" href="{{robot.url  | relative_url }}">{{ robot.title}}</a>
       </h1>
       <p>{{robot.short_description}}
       </p>

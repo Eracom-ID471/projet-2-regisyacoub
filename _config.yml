@@ -1,5 +1,5 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://eracom-id471.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/projet-2-regisyacoub" # the subpath of your site, e.g. /blog
 title: "Top 5" # the name of your site, e.g. ACME Corp.
 
 collections:

@@ -4,7 +4,7 @@
 {% include header.html %}
 <body>
   <h1><i>{{ page.ranking}}</i></h1>
-  <img class="petit" src="{{ page.image}}">
+  <img class="petit" src="{{ page.image | relative_url }}">
   <h1><i>{{ page.title }}</i> / {{ page.in_the_film }}</h1>
   {{ content}}
   {% include footer.html %}
