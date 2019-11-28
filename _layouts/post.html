@@ -3,12 +3,15 @@
 {% include head.html %}
 {% include header.html %}
 <body>
+  <div class="space left">
   <img class="petit" src="{{ page.image | relative_url }}">
-  <h1><i>{{ page.title }}</i></h1>
+  <h2><i>{{ page.title }}</i></h2>
   <h4>{{ page.size }}</h4>
   <h5>{{ page.distance}}</h5>
   {{ content}}
+  </div>
   {% include footer.html %}
+
 </body>
 
 </html>

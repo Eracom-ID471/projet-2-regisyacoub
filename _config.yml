@@ -13,5 +13,5 @@ plugins:
 nav-links:
   - name: "Robots"
     link: "/robots"
-  - name: "Nebuleuse"
+  - name: "Nebuleuses"
     link: "/nebuleuses"
