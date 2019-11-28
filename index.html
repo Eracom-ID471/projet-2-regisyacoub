@@ -1,0 +1,11 @@
+---
+layout: liste
+---
+
+{% for link in site.nav-links %}
+<h1 class="enter">
+  <a class="link" href="{{link.link | relative_url }}">
+    {{ link.name}}
+  </a>
+</h1>
+{% endfor %}

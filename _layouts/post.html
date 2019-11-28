@@ -4,7 +4,9 @@
 {% include header.html %}
 <body>
   <img class="petit" src="{{ page.image | relative_url }}">
-  <h1><i>{{ page.title }}</i> {{ page.in_the_film }}</h1>
+  <h1><i>{{ page.title }}</i></h1>
+  <h4>{{ page.size }}</h4>
+  <h5>{{ page.distance}}</h5>
   {{ content}}
   {% include footer.html %}
 </body>

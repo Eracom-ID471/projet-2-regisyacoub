@@ -1,0 +1,13 @@
+---
+layout: liste
+---
+{% for robots in site.robots %}
+<img class="petit" src="{{robots.image  | relative_url }}">
+<div>
+  <h1 class="locks">
+    <a class="link" href="{{robots.url  | relative_url }}">{{ robots.title}}</a>
+  </h1>
+  <p>{{robots.short_description}}
+  </p>
+</div>
+{% endfor %}

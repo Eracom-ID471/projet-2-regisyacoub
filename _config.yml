@@ -5,7 +5,13 @@ title: "Top 5" # the name of your site, e.g. ACME Corp.
 collections:
   robots:
     output: true
-  ordinateurs:
+  nebuleuses:
     output: true
 plugins:
   - jekyll-admin
+
+nav-links:
+  - name: "Robots"
+    link: "/robots"
+  - name: "Nebuleuse"
+    link: "/nebuleuses"
