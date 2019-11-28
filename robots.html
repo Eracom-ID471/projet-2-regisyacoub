@@ -2,12 +2,16 @@
 layout: liste
 ---
 {% for robots in site.robots %}
-<img class="petit" src="{{robots.image  | relative_url }}">
-<div>
-  <h1 class="locks">
+  <div class="left space">
+  <img class="petit" src="{{robots.image  | relative_url }}">
+<div class="content">
+  <h2>
+    <i>
     <a class="link" href="{{robots.url  | relative_url }}">{{ robots.title}}</a>
-  </h1>
+    </i>
+  </h2>
   <p>{{robots.short_description}}
   </p>
+  </div>
 </div>
 {% endfor %}

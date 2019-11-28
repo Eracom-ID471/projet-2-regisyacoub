@@ -1,14 +1,27 @@
 ---
 layout: liste
 ---
+<div class="left space block">
+  <p>
+  Une nébuleuse désigne, en astronomie, un objet céleste composé de gaz raréfié, ionisé et/ou de poussières interstellaires.
+</p>
+</div>
 {% for nebuleuses in site.nebuleuses %}
   <div class="left space">
   <img class="petit" src="{{nebuleuses.image  | relative_url }}">
 <div class="content">
-  <h1 class="locks">
-    <a class="link" href="{{nebuleuses.url  | relative_url }}">{{ nebuleuses.title}}</a>
-  </h1>
-  <p>{{nebuleuses.short_description}}
+
+    <a class="link" href="{{nebuleuses.url  | relative_url }}">
+      <button type="button" name="button" class="draw" href="{{nebuleuses.url  | relative_url }}">
+        <i>
+          <h2>
+    {{ nebuleuses.title}}
+    </h2>
+    </i>
+    </button>
+    </a>
+  <p>
+    {{nebuleuses.short_description}}
   </p>
   </div>
 </div>

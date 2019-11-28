@@ -7,6 +7,5 @@ image: "/assets/img/horsehead_nebula.jpg"
 short_description: The Horsehead Nebula (also known as Barnard 33) is a small dark nebula in the constellation Orion.
 ---
 
-The nebula was first recorded in 1888 by Scottish astronomer Williamina Fleming on a photographic plate taken at the Harvard College Observatory. One of the first description was made by E.E. Barnard, describing it as: "Dark mass, diam. 4′, on nebulous strip extending south from ζ Orionis.", cataloguing the dark nebula as Barnard 33.
-
-Looking like an apparition rising from whitecaps of interstellar foam, the iconic Horsehead Nebula has graced astronomy books ever since its discovery more than a century ago. The nebula is a favorite target for amateur and professional astronomers. It is shadowy in optical light. It appears transparent and ethereal when seen at infrared wavelengths. The rich tapestry of the Horsehead Nebula pops out against the backdrop of Milky Way stars and distant galaxies that easily are visible in infrared light.
+La nébuleuse a été enregistrée pour la première fois en 1888 par l’astronome écossaise Williamina Fleming sur une plaque photographique prise à l’Observatoire du Harvard College. Une des premières descriptions a été faite par E.E. Barnard, la décrivant de : « Masse foncée, diamètre 4 , sur bande nébuleuse s’étendant vers le sud de zeta Orionis. » , cataloguant la nébuleuse sombre sous le nom de Barnard 33.
+Ressemblant à une apparition émergeante des calottes blanches de la mousse interstellaire, l’emblématique nébuleuse de la tête de cheval a rendu grâce aux livres d’astronomie depuis sa découverte il y a plus d’un siècle. La nébuleuse est la cible préférée des astronomes amateurs et professionnels.
