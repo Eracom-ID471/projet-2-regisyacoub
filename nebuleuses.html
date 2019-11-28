@@ -2,12 +2,14 @@
 layout: liste
 ---
 {% for nebuleuses in site.nebuleuses %}
-<img class="petit" src="{{nebuleuses.image  | relative_url }}">
-<div>
+  <div class="left space">
+  <img class="petit" src="{{nebuleuses.image  | relative_url }}">
+<div class="content">
   <h1 class="locks">
     <a class="link" href="{{nebuleuses.url  | relative_url }}">{{ nebuleuses.title}}</a>
   </h1>
   <p>{{nebuleuses.short_description}}
   </p>
+  </div>
 </div>
 {% endfor %}

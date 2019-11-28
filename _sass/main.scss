@@ -1,18 +1,26 @@
 $bodyColor: #ffff;
 
 body {
-  background: #000000;
+  background-image: url(/assets/img/bg.jpg);
+  background-color: #000000;
   color: $bodyColor;
   font-family: Montserrat, sans-serif;
   text-align: center;
 }
-.link{
-  color: #C5F2FF;
+
+.link {
+  color: #ffffff;
+  text-decoration: overline;
+}
+
+.link:hover {
+  text-shadow: 0 0 20px #C5F2FF;
 }
 
 .locks {
   text-transform: uppercase;
 }
+
 .petit {
   width: 75%;
   max-width: 400px;
@@ -21,7 +29,6 @@ body {
 }
 
 .footer {
-
   background-color: #000000;
   border-radius: 1px;
   position: fixed;
@@ -31,20 +38,21 @@ body {
   text-align: center;
 }
 
-.header{
+.header {
   background-color: #000000;
   text-align: center;
   padding: 20px;
   margin-bottom: 40px;
   border-radius: 3px;
 }
+
 h1,
 h2,
 h3,
 h4,
 h5,
-h6{
-    font-weight: 300;
+h6 {
+  font-weight: 300;
 }
 
 .enter {
@@ -52,11 +60,23 @@ h6{
   margin-bottom: 40px;
 }
 
-.space{
+.space {
   margin-left: 8em;
   margin-bottom: 3em;
 }
 
-.left{
+.left {
   text-align: left;
+}
+
+.content {
+  margin-right: 24%;
+}
+
+hr {
+  margin: 0 44% 0 6%;
+}
+
+.foot {
+  margin-bottom: 10em;
 }
