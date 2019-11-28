@@ -1,7 +1,10 @@
 $bodyColor: #ffff;
 
 body {
-  background-image: url(/assets/img/bg.jpg);
+  background-image: url(../img/bg.jpg);
+  background-attachment: fixed;
+  background-size: auto;
+  justify-content: center;
   background-color: #000000;
   color: $bodyColor;
   font-family: Montserrat, sans-serif;
@@ -29,7 +32,10 @@ body {
 }
 
 .footer {
-  background-color: #000000;
+  background-image: url(../img/bg.jpg);
+  background-attachment: fixed;
+  background-size: auto;
+  justify-content: center;
   border-radius: 1px;
   position: fixed;
   left: 0;
@@ -39,7 +45,6 @@ body {
 }
 
 .header {
-  background-color: #000000;
   text-align: center;
   padding: 20px;
   margin-bottom: 40px;
