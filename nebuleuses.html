@@ -2,13 +2,17 @@
 layout: liste
 ---
 <div class="left space block">
-  <p>
+  <h2>Nébuleuse <sub>Nom fém.</sub></h2>
+  <h3>
   Une nébuleuse désigne, en astronomie, un objet céleste composé de gaz raréfié, ionisé et/ou de poussières interstellaires.
-</p>
+</h3>
 </div>
 {% for nebuleuses in site.nebuleuses %}
   <div class="left space">
+    <a class="link" href="{{nebuleuses.url  | relative_url }}">
+
   <img class="petit" src="{{nebuleuses.image  | relative_url }}">
+  </a>
 <div class="content">
 
     <a class="link" href="{{nebuleuses.url  | relative_url }}">
