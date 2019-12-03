@@ -8,12 +8,12 @@ layout: liste
 </h3>
 </div>
 {% for nebuleuses in site.nebuleuses %}
-  <div class="left space">
-    <a class="link" href="{{nebuleuses.url  | relative_url }}">
+<div class="left space">
+  <a class="link" href="{{nebuleuses.url  | relative_url }}">
 
-  <img class="petit" src="{{nebuleuses.image  | relative_url }}">
+  <img class="petit" id="box" src="{{nebuleuses.image  | relative_url }}">
   </a>
-<div class="content">
+  <div class="content">
 
     <a class="link" href="{{nebuleuses.url  | relative_url }}">
       <button type="button" name="button" class="draw" href="{{nebuleuses.url  | relative_url }}">
@@ -24,9 +24,9 @@ layout: liste
     </i>
     </button>
     </a>
-  <p>
-    {{nebuleuses.short_description}}
-  </p>
+    <p>
+      {{nebuleuses.short_description}}
+    </p>
   </div>
 </div>
 {% endfor %}

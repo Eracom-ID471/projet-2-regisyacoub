@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Little Gem Nebula
-size: 0.5 light-year
-distance: 6,000 light-years from Earth
+title: Nébuleuse de la petite gème
+size: 0.5 année-lumière de diamètre
+distance: 6,000 année-lumière de la terre
 image: "/assets/img/little_gem.jpg"
-short_description: This colourful bubble is a planetary nebula called NGC 6818, also known as the Little Gem Nebula. It is located in the constellation of Sagittarius (The Archer), roughly 6000 light-years away from us.
+short_description: Cette bulle colorée est une nébuleuse planétaire appelée NGC 6818, également connue sous le nom de Little Gem Nebula. Elle est situé dans la constellation du Sagittaire (l’Archer), à environ 6000 années-lumière de nous.
 ---
 
- The rich glow of the cloud is just over half a light-year across — humongous compared to its tiny central star — but still a little gem on a cosmic scale. When stars like the Sun enter retirement, they shed their outer layers into space to create glowing clouds of gas called planetary nebulae. This ejection of mass is uneven, and planetary nebulae can have very complex shapes. NGC 6818 shows knotty filament-like structures and distinct layers of material, with a bright and enclosed central bubble surrounded by a larger, more diffuse cloud.
+ Ce riche nuage de lueur est d’un peu plus d’une demi-année-lumière de diamètre, énorme par rapport à son étoile centrale minuscule, mais demeure un petit joyau à l’échelle cosmique. Lorsque des étoiles comme le Soleil prennent leur retraite, elles jettent leurs couches extérieures dans l’espace pour créer des nuages de gaz lumineux appelés nébuleuses planétaires. Cette éjection de masse est inégale, et les nébuleuses planétaires peuvent avoir des formes très complexes. Le NGC 6818 montre des structures noueuses de type filamenteux et des couches de matériaux distincts, avec une bulle centrale lumineuse et fermée entourée d’un nuage plus grand et plus diffus.
 
- Scientists believe that the stellar wind from the central star propels the outflowing material, sculpting the elongated shape of NGC 6818. As this fast wind smashes through the slower-moving cloud it creates particularly bright blowouts at the bubble’s outer layers. Hubble previously imaged this nebula back in 1997 with its Wide Field Planetary Camera 2, using a mix of filters that highlighted emission from ionised oxygen and hydrogen (opo9811h). This image, while from the same camera, uses different filters to reveal a different view of the nebula. A version of the image was submitted to the Hubble’s Hidden Treasures image processing competition by contestant Judy Schmidt.
+Les scientifiques pensent que le vent stellaire de l’étoile centrale propulse la matière qui s’écoule, sculptant la forme allongée de NGC 6818. Comme ce vent rapide brise à travers le nuage se déplaçant plus lentement, il crée des éruptions particulièrement lumineuses aux couches extérieures de la bulle. Hubble avait déjà photographié cette nébuleuse en 1997 avec sa caméra planétaire à grand champ, en utilisant un mélange de filtres qui mettait en évidence l’émission d’oxygène ionisé et d’hydrogène (opo9811h). Cette image, bien que provenant de la même caméra, utilise différents filtres pour révéler une vue différente de la nébuleuse. Une version de l’image a été soumise au concours de traitement d’image de Hubble’s Hidden Treasures par la participante Judy Schmidt.

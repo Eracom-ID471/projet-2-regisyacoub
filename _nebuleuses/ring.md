@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Ring Nebula
-size: 1 light-year
-distance: 2,000 light-years from Earth
+title: Nébuleuse de la Lyre
+size: 1 année-lumière de diamètre
+distance: 2,000 années lumière de la terre
 image: "/assets/img/ring_nebula.jpg"
-short_description: Located in the constellation Lyra, the nebula is a popular target for amateur astronomers.
+short_description: Située dans la constellation Lyra, la nébuleuse est une cible prisée des astronomes amateurs.
 ---
 
-This planetary nebula's simple, graceful appearance is thought to be due to perspective: our view from Earth looking straight into what is actually a barrel-shaped cloud of gas shrugged off by a dying central star. Hot blue gas near the energizing central star gives way to progressively cooler green and yellow gas at greater distances with the coolest red gas along the outer boundary. Credit: NASA/Hubble Heritage Team.
+On pense que l’aspect simple et gracieux de cette nébuleuse planétaire est dû à la perspective : notre vue de la Terre regardant directement dans ce qui est en fait un nuage de gaz en forme de baril haussé par une étoile centrale mourante. Le gaz bleu chaud à proximité de l’étoile centrale énergisante laisse place à un gaz vert et jaune progressivement plus frais à de plus grandes distances avec le gaz rouge le plus frais le long de la limite extérieure. Photo : NASA/Hubble Heritage Team.
 
-The Ring Nebula's distinctive shape makes it a popular illustration for astronomy books. But new observations by NASA's Hubble Space Telescope of the glowing gas shroud around an old, dying, sun-like star reveal a new twist. "The nebula is not like a bagel, but rather, it's like a jelly doughnut, because it's filled with material in the middle," said C. Robert O'Dell of Vanderbilt University in Nashville, Tenn. He leads a research team that used Hubble and several ground-based telescopes to obtain the best view yet of the iconic nebula. The images show a more complex structure than astronomers once thought and have allowed them to construct the most precise 3-D model of the nebula. "With Hubble's detail, we see a completely different shape than what's been thought about historically for this classic nebula," O'Dell said. "The new Hubble observations show the nebula in much clearer detail, and we see things are not as simple as we previously thought."
+La forme distinctive de la nébuleuse annulaire en fait une illustration populaire pour les livres d’astronomie. Mais de nouvelles observations du télescope spatial Hubble de la NASA sur le bouclier de gaz lumineux autour d’une vieille étoile mourante semblable au soleil révèlent une nouvelle torsion. "La nébuleuse n’est pas comme un bagel, mais plutôt comme un beignet de gelée, parce qu’il est rempli de matière au milieu," dit C. Robert O’Dell de l’Université Vanderbilt à Nashville, Tenn. Il dirige une équipe de recherche qui a utilisé Hubble et plusieurs télescopes au sol pour obtenir la meilleure vue de la nébuleuse iconique. Les images montrent une structure plus complexe que les astronomes ne le pensaient et leur ont permis de construire le modèle 3D le plus précis de la nébuleuse. "Avec le détail de Hubble, nous voyons une forme complètement différente de ce qui a été pensé historiquement pour cette nébuleuse classique," O’Dell dit. "Les nouvelles observations de Hubble montrent la nébuleuse en détail, et nous voyons que les choses ne sont pas aussi simples que nous le pensions."
