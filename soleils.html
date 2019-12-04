@@ -1,0 +1,29 @@
+---
+layout: liste
+---
+<div class="left space block">
+  <h2>Étoile <sub>Nom fém.</sub></h2>
+  <p class="content">
+  Une étoile est un corps céleste gazeux qui rayonne sa propre lumière par réactions de fusion nucléaire, ou des corps qui ont été dans cet état à un stade de leur cycle de vie, comme les naines blanches ou les étoiles à neutrons
+</p>
+</div>
+{% for soleils in site.soleils %}
+<div class="left space">
+  <a class="link" href="{{soleils.url  | relative_url }}">
+
+  <img class="petit" id="box" src="{{soleils.image  | relative_url }}">
+  </a>
+  <div class="content">
+
+    <a class="link" href="{{soleils.url  | relative_url }}">
+      <button type="button" name="button" class="draw" href="{{soleils.url  | relative_url }}">
+        <i>
+          <h2>
+    {{ soleils.title}}
+    </h2>
+    </i>
+    </button>
+    </a>
+  </div>
+</div>
+{% endfor %}

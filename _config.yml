@@ -3,7 +3,7 @@ baseurl: "/projet-2-regisyacoub" # the subpath of your site, e.g. /blog
 title: "Top 5" # the name of your site, e.g. ACME Corp.
 
 collections:
-  robots:
+  soleils:
     output: true
   nebuleuses:
     output: true
@@ -11,7 +11,7 @@ plugins:
   - jekyll-admin
 
 nav-links:
-  - name: "Robots"
-    link: "/robots"
+  - name: "Étoiles"
+    link: "/soleils"
   - name: "Nebuleuses"
     link: "/nebuleuses"
